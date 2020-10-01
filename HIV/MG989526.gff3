@@ -1,0 +1,24 @@
+##sequence-region MG989526.1 1 8662
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=11676
+MG989526.1	Genbank	region	1	8662	.	+	.	ID=MG989526.1:1..8662;Dbxref=taxon:11676;collection-date=2014;country=Thailand;gb-acronym=HIV-1;gbkey=Src;isolate=2546323P000FL_Sd;mol_type=genomic RNA;nat-host=Homo sapiens;old-lineage=Viruses%3B Retroid viruses%3B Retroviridae%3B Lentivirus%3B Primate lentivirus group.;subtype=01B
+MG989526.1	Genbank	gene	2	1495	.	+	.	ID=gene-gag;Name=gag;gbkey=Gene;gene=gag;gene_biotype=protein_coding
+MG989526.1	Genbank	CDS	2	1495	.	+	0	ID=cds-AXP13394.1;Parent=gene-gag;Dbxref=NCBI_GP:AXP13394.1;Name=AXP13394.1;gbkey=CDS;gene=gag;product=gag protein;protein_id=AXP13394.1
+MG989526.1	Genbank	gene	1291	4299	.	+	.	ID=gene-pol;Name=pol;gbkey=Gene;gene=pol;gene_biotype=protein_coding;partial=true;start_range=.,1291
+MG989526.1	Genbank	CDS	1291	4299	.	+	0	ID=cds-AXP13395.1;Parent=gene-pol;Dbxref=NCBI_GP:AXP13395.1;Name=AXP13395.1;gbkey=CDS;gene=pol;partial=true;product=pol protein;protein_id=AXP13395.1;start_range=.,1291
+MG989526.1	Genbank	gene	4244	4822	.	+	.	ID=gene-vif;Name=vif;gbkey=Gene;gene=vif;gene_biotype=protein_coding
+MG989526.1	Genbank	CDS	4244	4822	.	+	0	ID=cds-AXP13396.1;Parent=gene-vif;Dbxref=NCBI_GP:AXP13396.1;Name=AXP13396.1;gbkey=CDS;gene=vif;product=vif protein;protein_id=AXP13396.1
+MG989526.1	Genbank	gene	4762	5052	.	+	.	ID=gene-vpr;Name=vpr;gbkey=Gene;gene=vpr;gene_biotype=protein_coding
+MG989526.1	Genbank	CDS	4762	5052	.	+	0	ID=cds-AXP13397.1;Parent=gene-vpr;Dbxref=NCBI_GP:AXP13397.1;Name=AXP13397.1;gbkey=CDS;gene=vpr;product=vpr protein;protein_id=AXP13397.1
+MG989526.1	Genbank	gene	5033	7626	.	+	.	ID=gene-tat;Name=tat;gbkey=Gene;gene=tat;gene_biotype=protein_coding
+MG989526.1	Genbank	CDS	5033	5247	.	+	0	ID=cds-AXP13398.1;Parent=gene-tat;Dbxref=NCBI_GP:AXP13398.1;Name=AXP13398.1;gbkey=CDS;gene=tat;product=tat protein;protein_id=AXP13398.1
+MG989526.1	Genbank	CDS	7542	7626	.	+	1	ID=cds-AXP13398.1;Parent=gene-tat;Dbxref=NCBI_GP:AXP13398.1;Name=AXP13398.1;gbkey=CDS;gene=tat;product=tat protein;protein_id=AXP13398.1
+MG989526.1	Genbank	gene	5172	7816	.	+	.	ID=gene-rev;Name=rev;gbkey=Gene;gene=rev;gene_biotype=protein_coding
+MG989526.1	Genbank	CDS	5172	5247	.	+	0	ID=cds-AXP13399.1;Parent=gene-rev;Dbxref=NCBI_GP:AXP13399.1;Name=AXP13399.1;gbkey=CDS;gene=rev;product=rev protein;protein_id=AXP13399.1
+MG989526.1	Genbank	CDS	7542	7816	.	+	2	ID=cds-AXP13399.1;Parent=gene-rev;Dbxref=NCBI_GP:AXP13399.1;Name=AXP13399.1;gbkey=CDS;gene=rev;product=rev protein;protein_id=AXP13399.1
+MG989526.1	Genbank	gene	5267	5512	.	+	.	ID=gene-vpu;Name=vpu;gbkey=Gene;gene=vpu;gene_biotype=protein_coding
+MG989526.1	Genbank	CDS	5267	5512	.	+	0	ID=cds-AXP13400.1;Parent=gene-vpu;Dbxref=NCBI_GP:AXP13400.1;Name=AXP13400.1;gbkey=CDS;gene=vpu;product=vpu protein;protein_id=AXP13400.1
+MG989526.1	Genbank	gene	5430	7958	.	+	.	ID=gene-env;Name=env;gbkey=Gene;gene=env;gene_biotype=protein_coding
+MG989526.1	Genbank	CDS	5430	7958	.	+	0	ID=cds-AXP13401.1;Parent=gene-env;Dbxref=NCBI_GP:AXP13401.1;Name=AXP13401.1;gbkey=CDS;gene=env;product=envelope glycoprotein;protein_id=AXP13401.1
+MG989526.1	Genbank	gene	7960	8583	.	+	.	ID=gene-nef;Name=nef;gbkey=Gene;gene=nef;gene_biotype=protein_coding
+MG989526.1	Genbank	CDS	7960	8583	.	+	0	ID=cds-AXP13402.1;Parent=gene-nef;Dbxref=NCBI_GP:AXP13402.1;Name=AXP13402.1;gbkey=CDS;gene=nef;product=nef protein;protein_id=AXP13402.1
+
